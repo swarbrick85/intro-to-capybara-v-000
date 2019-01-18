@@ -1,4 +1,4 @@
-class Application < Sinatra::Base
+it class Application < Sinatra::Base
   # Write your code here!
 
 end
